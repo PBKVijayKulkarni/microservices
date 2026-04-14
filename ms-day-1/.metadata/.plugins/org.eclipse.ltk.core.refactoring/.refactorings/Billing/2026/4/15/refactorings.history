@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.p1.model.Billing.java&apos; to &apos;Bill.java&apos;&#x0D;&#x0A;- Original project: &apos;Billing&apos;&#x0D;&#x0A;- Original element: &apos;com.p1.model.Billing.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.p1.model.Bill.java&apos;" description="Rename compilation unit &apos;Billing.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.p1.model{Billing.java" name="Bill.java" references="false" stamp="1775668249094" version="1.0"/>
+</session>

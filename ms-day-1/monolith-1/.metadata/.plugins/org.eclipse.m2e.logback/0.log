@@ -1,0 +1,112 @@
+2026-04-10 16:34:25,899 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2026-04-10 16:35:37,065 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Billing:0.0.1-SNAPSHOT @ D:\scan-it\ms-day-1\monolith-1\Billing\pom.xml.
+2026-04-10 16:35:37,812 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Product:0.0.1-SNAPSHOT @ D:\scan-it\ms-day-1\monolith-1\Product\pom.xml.
+2026-04-10 16:35:38,072 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Product_Billing-User:0.0.1-SNAPSHOT @ D:\scan-it\ms-day-1\monolith-1\Product_Billing-User\pom.xml.
+2026-04-10 16:35:38,271 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Product_Billing:0.0.1-SNAPSHOT @ D:\scan-it\ms-day-1\monolith-1\Product_Billing\pom.xml.
+2026-04-10 16:35:41,283 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Billing/src/main/java
+2026-04-10 16:35:41,287 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Billing/src/main/resources
+2026-04-10 16:35:41,288 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Billing/src/main/resources
+2026-04-10 16:35:41,290 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Billing/src/test/java
+2026-04-10 16:35:41,292 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Billing/src/test/resources
+2026-04-10 16:35:41,723 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product/src/main/java
+2026-04-10 16:35:41,725 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product/src/main/resources
+2026-04-10 16:35:41,726 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product/src/main/resources
+2026-04-10 16:35:41,727 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product/src/test/java
+2026-04-10 16:35:41,729 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product/src/test/resources
+2026-04-10 16:35:42,182 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product_Billing-User/src/main/java
+2026-04-10 16:35:42,183 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_Billing-User/src/main/resources
+2026-04-10 16:35:42,184 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_Billing-User/src/main/resources
+2026-04-10 16:35:42,185 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product_Billing-User/src/test/java
+2026-04-10 16:35:42,186 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_Billing-User/src/test/resources
+2026-04-10 16:35:42,584 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product_Billing/src/main/java
+2026-04-10 16:35:42,585 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_Billing/src/main/resources
+2026-04-10 16:35:42,586 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_Billing/src/main/resources
+2026-04-10 16:35:42,587 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product_Billing/src/test/java
+2026-04-10 16:35:42,588 [Worker-10: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_Billing/src/test/resources
+2026-04-10 16:35:42,829 [Worker-10: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 4 project(s) in 10 sec
+2026-04-10 16:35:43,339 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-04-10 16:35:45,962 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Billing:0.0.1-SNAPSHOT @ D:\scan-it\ms-day-1\monolith-1\Billing\pom.xml.
+2026-04-10 16:35:46,552 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Product:0.0.1-SNAPSHOT @ D:\scan-it\ms-day-1\monolith-1\Product\pom.xml.
+2026-04-10 16:35:46,756 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Product_Billing:0.0.1-SNAPSHOT @ D:\scan-it\ms-day-1\monolith-1\Product_Billing\pom.xml.
+2026-04-10 16:35:46,950 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Product_Billing-User:0.0.1-SNAPSHOT @ D:\scan-it\ms-day-1\monolith-1\Product_Billing-User\pom.xml.
+2026-04-10 16:35:48,326 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Billing/src/main/java
+2026-04-10 16:35:48,327 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Billing/src/main/resources
+2026-04-10 16:35:48,330 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Billing/src/main/resources
+2026-04-10 16:35:48,330 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Billing/src/test/java
+2026-04-10 16:35:48,331 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Billing/src/test/resources
+2026-04-10 16:35:48,589 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product/src/main/java
+2026-04-10 16:35:48,591 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product/src/main/resources
+2026-04-10 16:35:48,592 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product/src/main/resources
+2026-04-10 16:35:48,593 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product/src/test/java
+2026-04-10 16:35:48,594 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product/src/test/resources
+2026-04-10 16:35:48,939 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product_Billing/src/main/java
+2026-04-10 16:35:48,944 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_Billing/src/main/resources
+2026-04-10 16:35:48,945 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_Billing/src/main/resources
+2026-04-10 16:35:48,946 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product_Billing/src/test/java
+2026-04-10 16:35:48,947 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_Billing/src/test/resources
+2026-04-10 16:35:49,232 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product_Billing-User/src/main/java
+2026-04-10 16:35:49,233 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_Billing-User/src/main/resources
+2026-04-10 16:35:49,234 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_Billing-User/src/main/resources
+2026-04-10 16:35:49,235 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Product_Billing-User/src/test/java
+2026-04-10 16:35:49,236 [Worker-2: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Product_Billing-User/src/test/resources
+2026-04-10 16:35:50,147 [Worker-2: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 4 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 1.00 sec 
+2026-04-10 16:35:51,228 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-10 16:35:51,276 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-10 16:35:51,283 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\scan-it\ms-day-1\monolith-1\Billing\src\test\resources
+2026-04-10 16:35:52,301 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-10 16:35:52,323 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-10 16:35:52,329 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\scan-it\ms-day-1\monolith-1\Product\src\test\resources
+2026-04-10 16:35:52,753 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-10 16:35:52,774 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-10 16:35:52,780 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\scan-it\ms-day-1\monolith-1\Product_Billing\src\test\resources
+2026-04-10 16:35:53,211 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-10 16:35:53,232 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-10 16:35:53,238 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\scan-it\ms-day-1\monolith-1\Product_Billing-User\src\test\resources
+2026-04-10 22:17:35,703 [Worker-25: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Billing-Product-Gateway:0.0.1-SNAPSHOT @ D:\scan-it\ms-day-1\ms-1\Billing-Product-Gateway\pom.xml.
+2026-04-10 22:17:36,701 [Worker-25: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BillingService:0.0.1-SNAPSHOT @ D:\scan-it\ms-day-1\ms-1\BillingService\pom.xml.
+2026-04-10 22:17:37,418 [Worker-25: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ProductService:0.0.1-SNAPSHOT @ D:\scan-it\ms-day-1\ms-1\ProductService\pom.xml.
+2026-04-10 22:17:39,477 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/main/java
+2026-04-10 22:17:39,478 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2026-04-10 22:17:39,479 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2026-04-10 22:17:39,480 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/test/java
+2026-04-10 22:17:39,481 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/test/resources
+2026-04-10 22:17:39,946 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Billing-Product-Gateway/src/main/java
+2026-04-10 22:17:39,947 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Billing-Product-Gateway/src/main/resources
+2026-04-10 22:17:39,948 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Billing-Product-Gateway/src/main/resources
+2026-04-10 22:17:39,948 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Billing-Product-Gateway/src/test/java
+2026-04-10 22:17:39,949 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Billing-Product-Gateway/src/test/resources
+2026-04-10 22:17:40,251 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BillingService/src/main/java
+2026-04-10 22:17:40,252 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BillingService/src/main/resources
+2026-04-10 22:17:40,253 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BillingService/src/main/resources
+2026-04-10 22:17:40,253 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BillingService/src/test/java
+2026-04-10 22:17:40,254 [Worker-25: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BillingService/src/test/resources
+2026-04-10 22:17:40,509 [Worker-25: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 3 project(s) in 7 sec
+2026-04-10 22:17:40,656 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-04-10 22:17:42,746 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:Billing-Product-Gateway:0.0.1-SNAPSHOT @ D:\scan-it\ms-day-1\ms-1\Billing-Product-Gateway\pom.xml.
+2026-04-10 22:17:44,000 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:BillingService:0.0.1-SNAPSHOT @ D:\scan-it\ms-day-1\ms-1\BillingService\pom.xml.
+2026-04-10 22:17:44,439 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:ProductService:0.0.1-SNAPSHOT @ D:\scan-it\ms-day-1\ms-1\ProductService\pom.xml.
+2026-04-10 22:17:46,069 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Billing-Product-Gateway/src/main/java
+2026-04-10 22:17:46,070 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Billing-Product-Gateway/src/main/resources
+2026-04-10 22:17:46,071 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Billing-Product-Gateway/src/main/resources
+2026-04-10 22:17:46,072 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Billing-Product-Gateway/src/test/java
+2026-04-10 22:17:46,073 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Billing-Product-Gateway/src/test/resources
+2026-04-10 22:17:46,415 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BillingService/src/main/java
+2026-04-10 22:17:46,416 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BillingService/src/main/resources
+2026-04-10 22:17:46,416 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BillingService/src/main/resources
+2026-04-10 22:17:46,417 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BillingService/src/test/java
+2026-04-10 22:17:46,417 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BillingService/src/test/resources
+2026-04-10 22:17:46,915 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/main/java
+2026-04-10 22:17:46,916 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2026-04-10 22:17:46,917 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/main/resources
+2026-04-10 22:17:46,917 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProductService/src/test/java
+2026-04-10 22:17:46,918 [Worker-25: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ProductService/src/test/resources
+2026-04-10 22:17:47,404 [Worker-25: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 3 poms: local refresh takes 0.00 sec, refresh facades takes 5.00 sec, update config takes 1.00 sec 
+2026-04-10 22:17:47,743 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-10 22:17:47,764 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-10 22:17:47,769 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\scan-it\ms-day-1\ms-1\Billing-Product-Gateway\src\test\resources
+2026-04-10 22:17:48,075 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-10 22:17:48,094 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-10 22:17:48,099 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\scan-it\ms-day-1\ms-1\BillingService\src\test\resources
+2026-04-10 22:17:48,374 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2026-04-10 22:17:48,392 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2026-04-10 22:17:48,397 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\scan-it\ms-day-1\ms-1\ProductService\src\test\resources

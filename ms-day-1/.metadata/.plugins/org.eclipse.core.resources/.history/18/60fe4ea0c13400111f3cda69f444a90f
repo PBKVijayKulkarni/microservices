@@ -1,0 +1,29 @@
+package com.p1.controller;
+
+import org.springframework.web.bind.annotation.*;
+import org.springframework.web.client.RestTemplate;
+
+import com.p1.model.Bill;
+
+import java.util.Map;
+
+@RestController
+@RequestMapping("/billing")
+public class BillingController {
+
+    private RestTemplate restTemplate = new RestTemplate();
+
+    @GetMapping("/{productId}/{quantity}")
+    public Bill generateBill(@PathVariable int productId,
+                             @PathVariable int quantity) {
+
+        String url = "http://localhost:8081/products/" + productId;
+
+        Map<Integer,String> product = restTemplate.getForObject(url, Map.class);
+
+        String name = (String) product.get("name");
+        double price = Double.parseDouble(product.get("price").toString());
+
+        return new Bill(name, price, quantity);
+    }
+}
