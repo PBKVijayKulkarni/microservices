@@ -1,0 +1,17 @@
+package com.p1.model;
+
+public class Bill {
+    private String productName;
+    private double price;
+    private int quantity;
+    private double total;
+
+    public Bill(String productName, double price, int quantity) {
+        this.productName = productName;
+        this.price = price;
+        this.quantity = quantity;
+        this.total = price * quantity;
+    }
+
+    // getters
+}

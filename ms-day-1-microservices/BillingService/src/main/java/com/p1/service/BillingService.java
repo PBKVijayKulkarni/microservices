@@ -1,0 +1,25 @@
+package com.p1.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.web.client.RestTemplate;
+
+import com.p1.dto.ProductDTO;
+import com.p1.model.Bill;
+
+@Service
+public class BillingService {
+
+    @Autowired
+    private RestTemplate restTemplate;
+
+    public Bill generateBill(int productId, int qty) {
+
+        ProductDTO product = restTemplate.getForObject(
+            "http://ProductService/products/" + productId,
+            ProductDTO.class
+        );
+
+        return new Bill(product.getName(), product.getPrice(), qty);
+    }
+}
