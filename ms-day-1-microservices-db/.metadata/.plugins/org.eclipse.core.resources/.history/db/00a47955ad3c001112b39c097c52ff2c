@@ -1,0 +1,23 @@
+package com.p1.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/billing")
+public class BillingController {
+
+    @Autowired
+    private BillRepository repo;
+
+    @PostMapping
+    public Bill create(@RequestBody Bill bill) {
+        return repo.save(bill);
+    }
+
+    @GetMapping
+    public List<Bill> getAll() {
+        return repo.findAll();
+    }
+}
